@@ -37,7 +37,7 @@ As part of my assistantship roles, I am involved in the following projects:
 
 ## LANGUAGES
 
-* Spanish (native)
+* Spanish (Native)
 * English (Proficient)
 
 ## HOBBIES 
