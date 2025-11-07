@@ -1,4 +1,4 @@
-![foto](‪"C:\Users\USUARIO\Downloads\foto.jpg")
+![foto](https://blogs.tropicalstudies.org/field-notes/wp-content/uploads/sites/7/2023/07/ESM-TB23-Stone-Bridge-300x399.jpg)
 
 Tropical biology at the [School of Biological Science](https://www.biologia.una.ac.cr/) student with a strong interest in conservation, motivated to apply scientific knowledge for biodiversity protection and to promote community engagement in environmental initiatives.
 
