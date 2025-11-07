@@ -48,4 +48,5 @@ Currently pursuing a bachelor's degree in Tropical Biology at the School of Biol
 
 ## Distribución de _Lithobates warszewitschii_ en Costa Rica
 En esta figura busco representar la distribución de la especie a través de sus ocurrencias en diferentes sitios del país. Los datos se obtuvieron de tres fuentes: Global Biodiversity Information Facility (GBIF), iNaturalist (inat) y del museo de zoología de la Universidad de Costa Rica (ucr). 
+![fig_1](l_warszewitschii_oc_map.jpg)
 
