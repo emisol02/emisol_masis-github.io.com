@@ -42,5 +42,10 @@ Currently pursuing a bachelor's degree in Tropical Biology at the School of Biol
 
 ## Contact information
 * [email](mailto:emily.solanom12@gmail.com)
-* [GitHub](https://github.com/)
-* [Linkedin](www.linkedin.com/in/emily-solano-masís-41a997349)
+* [GitHub](https://github.com/emisol02/emisol_masis-github.io.com)
+* [Linkedin](https://www.linkedin.com/in/emily-solano-mas%C3%ADs-41a997349/)
+* [Instagram](https://www.instagram.com/__emisol__/)
+
+## Distribución de _Lithobates warszewitschii_ en Costa Rica
+En esta figura busco representar la distribución de la especie a través de sus ocurrencias en diferentes sitios del país. Los datos se obtuvieron de tres fuentes: Global Biodiversity Information Facility (GBIF), iNaturalist (inat) y del museo de zoología de la Universidad de Costa Rica (ucr). 
+
