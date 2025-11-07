@@ -1,4 +1,4 @@
-![foto](C:\Users\USUARIO\Downloads\headshot.jpg)
+![foto](headshot.jpg)
 
 Tropical biology at the [School of Biological Science](https://www.biologia.una.ac.cr/) student with a strong interest in conservation, motivated to apply scientific knowledge for biodiversity protection and to promote community engagement in environmental initiatives.
 
