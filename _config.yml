@@ -2,7 +2,5 @@ title: Emi's portfolio
 name: null 
 logo: headshot.jpg
 remote_theme: pages-themes/cayman@v0.2.0
-layout: default
-title: Contacto
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
