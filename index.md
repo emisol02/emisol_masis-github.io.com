@@ -47,7 +47,7 @@ As part of my assistantship roles, I am involved in the following projects:
 * Painting
 
 ## Contact information
-* <a href="mailto:emisolano12@gmail.com"> emisolano12@gmail.com</a>
+* [email](mailto:emisolano12@gmail.com) 
 * [GitHub](https://github.com/emisol02/emisol_masis-github.io.com)
 * [Linkedin](https://www.linkedin.com/in/emily-solano-mas%C3%ADs-41a997349/)
 * [Instagram](https://www.instagram.com/__emisol__/)
