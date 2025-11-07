@@ -7,17 +7,17 @@ Tropical biology at the [School of Biological Science](https://www.biologia.una.
 ## PROFESIONAL EXPERIENCE
 * Teacher Assistant at the [Organization for Tropical Studies](https://tropicalstudies.org/) (July 2025) – Managed logistics and organization. Supported tha professor with the course activities, fieldwork, and classes; assisted students with tropical biology concepts and methods.
   
-* Tropical Biology Laboratory Assistant, National University of Costa Rica (2024–Present) – Supported field data collection, creation of educational materials, and coordination of scientific events.
+* Tropical Biology Laboratory Assistant, National University of Costa Rica (2024–Present).
   
-* Environmental Hydrology Laboratory Assistant, National University of Costa Rica (2024–Present) – Conducted water quality sampling, delivered educational workshops, and developed didactic resources.
+* Environmental Hydrology Laboratory Assistant, National University of Costa Rica (2024–Present).
 
-* Entomology Laboratory Assistant, National University of Costa Rica (2024) – Collected and preserved Odonata specimens and maintained entomological collections.
+* Entomology Laboratory Assistant, National University of Costa Rica (2024).
 
-* Phytochemistry Laboratory Assistant, National University of Costa Rica (2023–Present) – Analyzed biological samples using spectrophotometry and TLC, and prepared technical reports.
+* Phytochemistry Laboratory Assistant, National University of Costa Rica (2023–Present). 
 
-* Accreditation Commission Assistant, National University of Costa Rica (2023) – Managed data systems, administrative tasks, and communications with stakeholders.
-
-## Projects
+* Accreditation Commission Assistant, National University of Costa Rica (2023).
+  
+## PROJECTS
 
 As part of my assistantship roles, I am involved in the following projects:
 
@@ -29,15 +29,18 @@ As part of my assistantship roles, I am involved in the following projects:
 
 * Validation of an Experimental-Computational Design for the Production of a Fungal Biosurfactant
 
-## Education
+## EDUCATION
 
-Currently pursuing a bachelor's degree in Tropical Biology at the School of Biological Sciences, National University of Costa Rica.
+* I graduated from Liceo Experimental Bilingüe de Turrialba High School, Costa Rica.
+* Currently pursuing a bachelor's degree in Tropical Biology at the School of Biological Sciences, National University of Costa Rica.
 
-## Languages
-* Spanish
-* English
+## LANGUAGES
 
-## Hobbies
+* Spanish (native)
+* English (Proficient)
+
+## HOBBIES 
+
 * Reading
 * Hiking
 * Painting
