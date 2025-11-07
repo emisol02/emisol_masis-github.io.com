@@ -62,9 +62,9 @@ En esta figura se pueden apreciar los cambios temporales en la distribución de 
 
 ![fig_2](dist_changes_L_warszewitschii.png)
 
-## Distribución ambiental de los registros de _Lithobates warszewitschii_ en Costa Rica
+## Varibales ambientales asociadas a registros de _Lithobates warszewitschii_ en Costa Rica
 
-Quice mostrar los registros de _Lithobates warszewitschii_ en Costa Rica a lo largo de diferentes periodos históricos. Los puntos representan los registros de presencia de la especie en relación con variables climáticas y altitudinales: (A) precipitación media anual frente a temperatura media anual, (B) elevación frente a temperatura media anual y (C) elevación frente a precipitación media anual. Los colores indican las fases temporales del historial poblacional: azul (predeclive), rojo (durante el declive) y verde (postdeclive). Los puntos grises corresponden al fondo ambiental (background) disponible en el país.
+Quice mostrar los registros de _Lithobates warszewitschii_ en Costa Rica a lo largo de diferentes periodos históricos según su relación con variables ambientales. Los paneles representan: (A) precipitación media anual frente a temperatura media anual, (B) elevación frente a temperatura media anual y (C) elevación frente a precipitación media anual. Los colores indican las fases temporales del historial poblacional: azul (predeclive), rojo (durante el declive) y verde (postdeclive). Los puntos grises corresponden al fondo ambiental (background) disponible en el país.
 
 ![fig_3](env_var_L_warszewitschii.png)
 
