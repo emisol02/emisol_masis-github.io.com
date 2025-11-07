@@ -54,13 +54,13 @@ En esta figura busco representar la distribución de la especie a través de sus
 ## Distribución histórica de _Lithobates warszewitschii_ en Costa Rica 
 En esta figura se pueden apreciar los cambios temporales en la distribución de registros históricos de _Lithobates warszewitschii_ en Costa Rica. Con estos mapas quería mostrar la ubicación de registros por periodo: (A) 1960–1979, (B) 1980–2000 y (C) 2000–presente. El gradiente de color representa la elevación (m), desde zonas bajas en verde hasta zonas altas en rosado. Los puntos azules indican los registros históricos georreferenciados de la especie.
 
-!![fig_2](dist_changes_L_warszewitschii.png)
+![fig_2](dist_changes_L_warszewitschii.png)
 
 ## Distribución ambiental de los registros de _Lithobates warszewitschii_ en Costa Rica
 
 Quice mostrar los registros de _Lithobates warszewitschii_ en Costa Rica a lo largo de diferentes periodos históricos. Los puntos representan los registros de presencia de la especie en relación con variables climáticas y altitudinales: (A) precipitación media anual frente a temperatura media anual, (B) elevación frente a temperatura media anual y (C) elevación frente a precipitación media anual. Los colores indican las fases temporales del historial poblacional: azul (predeclive), rojo (durante el declive) y verde (postdeclive). Los puntos grises corresponden al fondo ambiental (background) disponible en el país.
 
-!![fig_3](env_var_L_warszewitschii.png)
+![fig_3](env_var_L_warszewitschii.png)
 
 
 
