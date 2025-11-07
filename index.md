@@ -1,4 +1,4 @@
-# Emily Solano-Masís
+# Emily Solano-Masís's Portfolio 
 
 ![foto](headshot.jpg)
 
