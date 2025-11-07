@@ -29,7 +29,7 @@ As part of my assistantship roles, I am involved in the following projects:
 
 ## Education
 
-Currently pursuing a bachelor's degree in Tropical Biology at the School of Biological Sciences, National University of Costa Rica. ![ECB](https://www.biologia.una.ac.cr/)
+Currently pursuing a bachelor's degree in Tropical Biology at the School of Biological Sciences, National University of Costa Rica.
 
 ## Languages
 * Spanish
