@@ -2,9 +2,10 @@
 
 ![foto](headshot.jpg)
 
-Tropical biology at the [School of Biological Science](https://www.biologia.una.ac.cr/) student with a strong interest in conservation, motivated to apply scientific knowledge for biodiversity protection and to promote community engagement in environmental initiatives.
+Tropical biology student at the [School of Biological Science](https://www.biologia.una.ac.cr/), with a strong interest in conservation, motivated to apply scientific knowledge for biodiversity protection and to promote community engagement in environmental initiatives.
 
 ## PROFESIONAL EXPERIENCE
+
 * Teacher Assistant at the [Organization for Tropical Studies](https://tropicalstudies.org/) (July 2025) – Managed logistics and organization. Supported tha professor with the course activities, fieldwork, and classes; assisted students with tropical biology concepts and methods.
   
 * Tropical Biology Laboratory Assistant, National University of Costa Rica (2024–Present).
